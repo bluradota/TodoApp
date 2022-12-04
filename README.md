@@ -10,4 +10,4 @@ As a user, I want to view my tasks and distinguish them based on priority. - Don
 As a user, I want to remove a task on completion. - Done
 As a user, I want to view my completed tasks. -Not implemented
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UXPo0PXHPE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Youtube: https://www.youtube.com/embed/UXPo0PXHPE0
